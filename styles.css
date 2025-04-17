@@ -15,4 +15,9 @@ body{
     margin: 1em auto;
     text-align: center;
   }
-  
+form{
+  margin: 0px auto;
+  max-width: 500px;
+  min-width: 300px;
+  width: 60vw;
+}
