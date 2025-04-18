@@ -33,3 +33,7 @@ input,textarea,select{
   width: 100%;
   margin: 10px 0 0 0;
 }
+/*width: unset; Restablece el ancho al valor inicial (auto) */
+.inline{
+  width: unset;
+}
