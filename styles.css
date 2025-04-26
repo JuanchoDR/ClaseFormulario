@@ -36,4 +36,5 @@ input,textarea,select{
 /*width: unset; Restablece el ancho al valor inicial (auto) */
 .inline{
   width: unset;
+  margin: 0 0.5em 0 0; /* la em  seu usa para definir tamaños de fuente, márgenes, paddings y otros elementos de diseño */
 }
