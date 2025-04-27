@@ -39,3 +39,7 @@ input,textarea,select{
   margin: 0 0.5em 0 0; /* la em  seu usa para definir tamaños de fuente, márgenes, paddings y otros elementos de diseño */
   vertical-align: middle; /*Vertical-align middle: Alinea el elemento en el medio de la línea de texto. Este valor solo tiene efecto si el elemento tiene un tamaño definido.*/
 }
+input, textarea{
+  background-color: #0a0a23;
+  border: 1px solid #0a0a23;
+}
